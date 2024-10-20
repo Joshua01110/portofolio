@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+nltk
+google-play-scraper
+streamlit-option-menu
+Sastrawi
+scikit-learn
+Pillow
+joblib
